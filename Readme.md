@@ -10,9 +10,9 @@
 - [x] Table Care Site (SQL)
   - [x] Write SQL queries to create and fill the table.
   - [x] Write the Python code to execute the queries
-- [ ] Table Provider (PySpark)
-  - [ ] Configure Spark and get it running
-  - [ ] Define the transformations and create a new table.
+- [x] Table Provider (PySpark)
+  - [x] Configure Spark and get it running
+  - [x] Define the transformations and create a new table.
 - [x] Generate requirements.txt, and Readme run guide.
 
 ## Installation / Run guide
@@ -22,7 +22,7 @@
    - Python version : 3.12.2
    - Spark installed on your device.
 
-2. Install dependencies and add virtual environment to the Python Kernel:
+2. Create a virtual environment and add it to the Python Kernel:
 
    ```console
    python -m venv hdi
