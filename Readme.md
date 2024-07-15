@@ -7,9 +7,9 @@
 - [x] Table Person (Python)
   - [x] Implement a high-level function that applies transformations on data.
   - [x] Implement transformation functions and transformation rules.
-- [ ] Table Care Site (SQL)
-  - [ ] Write SQL queries to create and fill the table.
-  - [ ] Write the Python code to execute the queries
+- [x] Table Care Site (SQL)
+  - [x] Write SQL queries to create and fill the table.
+  - [x] Write the Python code to execute the queries
 - [ ] Table Provider (PySpark)
   - [ ] Configure Spark and get it running
   - [ ] Define the transformations and create a new table.
