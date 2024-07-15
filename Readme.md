@@ -1,8 +1,8 @@
 ## Roadmap
 
-- [ ] Install libraries (Pandas, SQLite, PySpark)
-- [ ] Load the data from all sources
-- [ ] Datasets Overview (Columns, Rows, Types, NAs, etc.)
+- [x] Install libraries (Pandas, SQLite, PySpark)
+- [x] Load the data from all sources
+- [x] Datasets Overview (Columns, Rows, Types, NAs, etc.)
 - [ ] Summarize the transformations to be done to construct each table
 - [ ] Table Person (Python)
   - [ ] Implement a high-level function that applies transformations on data.
@@ -13,7 +13,7 @@
 - [ ] Table Provider (PySpark)
   - [ ] Configure Spark and get it running
   - [ ] Define the transformations and create a new table.
-- [ ] Generate requirements.txt, and Readme running guide.
+- [x] Generate requirements.txt, and Readme running guide.
 
 ## Installation / Running guide
 
