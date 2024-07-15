@@ -13,9 +13,9 @@
 - [ ] Table Provider (PySpark)
   - [ ] Configure Spark and get it running
   - [ ] Define the transformations and create a new table.
-- [x] Generate requirements.txt, and Readme running guide.
+- [x] Generate requirements.txt, and Readme run guide.
 
-## Installation / Running guide
+## Installation / Run guide
 
 1. Requirements:
 
