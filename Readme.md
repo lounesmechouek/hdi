@@ -3,10 +3,10 @@
 - [x] Install libraries (Pandas, SQLite, PySpark)
 - [x] Load the data from all sources
 - [x] Datasets Overview (Columns, Rows, Types, NAs, etc.)
-- [ ] Summarize the transformations to be done to construct each table
-- [ ] Table Person (Python)
-  - [ ] Implement a high-level function that applies transformations on data.
-  - [ ] Implement transformation functions and transformation rules.
+- [x] Summarize the transformations to be done to construct each table
+- [x] Table Person (Python)
+  - [x] Implement a high-level function that applies transformations on data.
+  - [x] Implement transformation functions and transformation rules.
 - [ ] Table Care Site (SQL)
   - [ ] Write SQL queries to create and fill the table.
   - [ ] Write the Python code to execute the queries
