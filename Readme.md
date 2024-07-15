@@ -1,7 +1,5 @@
 ## Roadmap
 
----
-
 - [ ] Install libraries (Pandas, SQLite, PySpark)
 - [ ] Load the data from all sources
 - [ ] Datasets Overview (Columns, Rows, Types, NAs, etc.)
@@ -16,3 +14,28 @@
   - [ ] Configure Spark and get it running
   - [ ] Define the transformations and create a new table.
 - [ ] Generate requirements.txt, and Readme running guide.
+
+## Installation / Running guide
+
+1. Requirements:
+
+   - Python version : 3.12.2
+   - Spark installed on your device.
+
+2. Install dependencies and add virtual environment to the Python Kernel:
+
+   ```console
+   python -m venv hdi
+
+   source hdi/bin/activate # Linux
+   .\hdi\Scripts\activate # Windows
+
+   python -m pip install --upgrade pip
+
+   pip install ipykernel
+   python -m ipykernel install --user --name=hdi
+   ```
+
+3. Add the 5 csv files to the data/ folder
+
+4. Run main.ipynb

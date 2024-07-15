@@ -1,0 +1,5 @@
+hdi/
+data/
+outputs/
+*.pdf
+*.csv
